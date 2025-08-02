@@ -1,0 +1,8 @@
+
+# Database (NeonDB or PostgreSQL)
+DATABASE_URL=postgresql://user:password@neondb.io/xinbankdb
+
+# Auth and email
+NEXTAUTH_SECRET=supersecretkeyfortokens123!
+EMAIL_SERVER_USER=support@xinbankofchina.com
+EMAIL_SERVER_PASSWORD=emailpassword123!
